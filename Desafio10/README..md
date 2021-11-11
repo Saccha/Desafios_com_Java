@@ -11,7 +11,7 @@
 |-----------------|-------------------------------------|
 |5                |Mary won 3 times and John won 2 times|
 |0 0 1 0 1        |Mary won 5 times and John won 1 times|
-|6                |                                     |
-|0 0 0 0 0 1      |                                     |
+|6                |Mary won 5 times and                 |
+|0 0 0 0 0 1      |John won 1 times                     |
 |0                |                                     |
 
